@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2023-06-26T09:44:23.587Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/114.0" version="21.2.1" etag="sUlG5Z34e7ywSZEAkHpQ" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-26T09:45:17.245Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/114.0" etag="uXZ38TSVCdnqP5Nh5DmF" version="21.2.1" type="github">
   <diagram name="第 1 页" id="hYDpbh1COEwj2LPLSGyw">
-    <mxGraphModel>
+    <mxGraphModel dx="914" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Lnk9WkGvpi0p88hsmxpN-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cooper.didichuxing.com/cooper_gateway/cn/shimo-images/I6QajTjz2rce9JLE/image.png;" vertex="1" parent="1">
+          <mxGeometry x="40" y="10" width="660" height="476.3" as="geometry" />
+        </mxCell>
+        <mxCell id="Lnk9WkGvpi0p88hsmxpN-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cooper.didichuxing.com/cooper_gateway/cn/shimo-images/UjzS2n6Q8wkToRMv/image.png;" vertex="1" parent="1">
+          <mxGeometry x="10" y="500" width="993" height="918" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
